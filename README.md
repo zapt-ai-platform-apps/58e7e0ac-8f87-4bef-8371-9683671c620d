@@ -12,6 +12,7 @@ This application is a ReactJS-based project bootstrapped with Vite and styled us
 4. [Error Logging](docs/journeys/error-logging.md) - Implement Sentry for effective error monitoring.
 5. [API Integration](docs/journeys/api-integration.md) - Connect frontend components with backend APIs securely.
 6. [Responsive Design](docs/journeys/responsive-design.md) - Ensure the app looks great on all screen sizes, with a mobile-first approach.
+7. [Interactive Project Dashboard](docs/journeys/interactive-project-dashboard.md) - Add real-time project insights and financial metrics to enhance project management.
 
 ## External Services
 
@@ -43,10 +44,3 @@ Ensure the following environment variables are set in the `.env` file:
 - `VITE_PUBLIC_UMAMI_WEBSITE_ID`
 
 Refer to the `.env` file for more details.
-
----
-# Design System
-
-A comprehensive design system has been integrated into the application to maintain consistency and enhance user experience across all components and screens.
-
----
